@@ -1,4 +1,8 @@
 {
+  "name": "gymsync/api",
+  "description": "GymSync API built with Slim Framework 3 for workout tracking and load progression.",
+  "type": "project",
+  "license": "MIT",
   "require": {
     "slim/slim": "^3.0"
   },
